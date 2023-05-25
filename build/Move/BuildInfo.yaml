@@ -3,7 +3,7 @@ compiled_package_info:
   package_name: Move
   address_alias_instantiation:
     std: "00000000000000000000000000000001"
-  source_digest: D0212531EA37AD9E2A05C36F07262015A924FA9FAD7E7147E63523AB5962F86D
+  source_digest: 5B475D1DAA0575D2BD470E55D56B28692465B977390F6BD1FAF9633EA2E3E944
   build_flags:
     dev_mode: true
     test_mode: true
