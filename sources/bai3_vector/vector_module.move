@@ -9,7 +9,7 @@ module 0x42::vt {
 		v
 	}
 	public fun test_vector_3() {
-		let v = vector::empty<u8>();
+		let _v = vector::empty<u8>();
 
 	}
 	#[test]
